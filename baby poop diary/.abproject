@@ -1,24 +1,24 @@
 {
-  "ProjectName": "grocery list ionic sample",
+  "ProjectName": "baby poop diary",
   "ProjectGuid": "10db06a2-d58d-4f26-8a4c-f29a5db732bd",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.grocerylistionicsample",
   "DisplayName": "grocery list ionic sample",
   "Author": "",
-  "Description": "",
+  "Description": "grocery list ionic sample",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
-	"2"
+    "2"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
   "WP8Publisher": "",
   "WP8Capabilities": [],
   "WP8Requirements": [],
-  "WP8PublisherID": "",
-  "WP8ProductID": "",
+  "WP8PublisherID": "{cbca1cb8-e523-47e0-87be-964a55ef7e17}",
+  "WP8ProductID": "{8d7d24db-1fe3-4038-a143-d2ffdc951529}",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "FrameworkVersion": "3.5.0",
   "CorePlugins": [

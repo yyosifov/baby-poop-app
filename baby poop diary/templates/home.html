@@ -1,0 +1,15 @@
+<ion-header-bar class="bar-positive">
+    <h1 class="title">Your children</h1>
+</ion-header-bar>
+<ion-content>
+    <ion-list>
+        <ion-item ng-repeat="kid in kids" item="kid">
+            {{ kid.name }}
+        </ion-item>
+    </ion-list>
+    <a href="#/addkid">
+        <button class="button button-balanced">
+            + Add
+        </button>
+    </a>
+</ion-content>
